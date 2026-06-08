@@ -21,3 +21,5 @@ bitsandbytes
 accelerate
 unsloth==2026.4.8
 unsloth_zoo==2026.4.9
+litellm==1.87.0
+openai
